@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/caribeedu" target="blank"><img src="https://img.shields.io/twitter/follow/caribeedu?logo=twitter&style=for-the-badge" alt="caribeedu" /></a> </p>
 
-- 🔭 I’m currently working on [ngx-structure-viewer](https://github.com/caribeedu/ngx-structure-viewer)
+- 🔭 I’m currently working on [angular project structure viewer](https://github.com/caribeedu/ngx-structure-viewer)
 
 - 🌱 I’m currently learning **AWS for AWS Cloud Certified Practioner certificate**
-
-- 👨‍💻 All of my projects are available at [https://github.com/caribeedu?tab=repositories](https://github.com/caribeedu?tab=repositories)
 
 - 💬 Ask me about **nodejs, angular and .net**
 
@@ -23,12 +21,8 @@
 <a href="https://twitter.com/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caribeedu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caribeedu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="caribeedu" height="30" width="40" /></a>
-<a href="https://kaggle.com/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="caribeedu" height="30" width="40" /></a>
-<a href="https://fb.com/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="caribeedu" height="30" width="40" /></a>
-<a href="https://instagram.com/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caribeedu" height="30" width="40" /></a>
 <a href="https://medium.com/@caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@caribeedu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="caribeedu" height="30" width="40" /></a>
-<a href="https://discord.gg/6394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6394" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
