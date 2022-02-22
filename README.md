@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **small angular libs projects**
 
-- 👨‍💻 You can know more about me at [caribeedu.me](caribeedu.me)
+- 👨‍💻 You can know more about me at [caribeedu.me](https://caribeedu.me)
 
 - 💬 Ask me about **Node.js, Angular and .NET**
 
