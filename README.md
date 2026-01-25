@@ -3,24 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caribeedu&label=Profile%20views&color=0e75b6&style=flat" alt="caribeedu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/caribeedu" target="blank"><img src="https://img.shields.io/twitter/follow/caribeedu?logo=twitter&style=for-the-badge" alt="caribeedu" /></a> </p>
+- 🔭 I’m currently working on **Genrefy**
 
-- 🔭 I’m currently working on **Spotify Category Organizer**
-
-- 🌱 I’m currently learning **about Rust, Web Assembly and cloud services**
-
-- 👨‍💻 All about me are available at [http://caribeedu.me](http://caribeedu.me)
+- 🌱 I’m currently learning **about Python, system design and cloud services**
 
 - 💬 Ask me about **.NET and Javascript**
-
-- 📫 How to reach me **contact@caribeedu.me**
 
 - ⚡ I'm interested on **physics, computer graphics and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="caribeedu" height="30" width="40" /></a>
-<a href="https://twitter.com/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caribeedu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caribeedu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="caribeedu" height="30" width="40" /></a>
 <a href="https://medium.com/@caribeedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@caribeedu" height="30" width="40" /></a>
